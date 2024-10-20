@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on projects having full JavaScript/TypeScript stack and even more.
 - 📫 How to reach me:
    - [LinkedIn](https://www.linkedin.com/in/fernandsoualo/)
-   - [Portfolio]()
+   - [Portfolio](https://fygs-dev.vercel.app)
 
 <!---
 FYGS/FYGS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
